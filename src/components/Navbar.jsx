@@ -1,5 +1,5 @@
 import { Box, Text, Heading, Avatar} from '@chakra-ui/react';
-import Logo from "../assets/WhatsApp_37229.png";
+import Logo from "../assets/Whatsapp_logo.png";
 
 
 export default function Navbar()
